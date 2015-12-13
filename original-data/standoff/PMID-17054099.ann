@@ -1,0 +1,20 @@
+T1	Organism_substance 360 366	plasma
+T2	Organ 368 375	hepatic
+T3	Organism_substance 421 427	plasma
+T4	Organism_substance 575 580	fecal
+T6	Organ 660 667	hepatic
+T8	Organ 159 163	root
+A1	Plant T8
+T9	Organ 258 262	root
+A2	Plant T9
+T10	Organ 756 760	root
+A3	Plant T10
+T11	Organ 828 835	hepatic
+T12	Organ 1031 1035	root
+A4	Plant T12
+T14	Organ 1173 1180	hepatic
+T16	Organ 1239 1246	hepatic
+T17	Organ 1355 1359	root
+A5	Plant T17
+T18	Organism_substance 1420 1426	plasma
+T19	Organism_substance 1142 1154	fecal matter

@@ -1,0 +1,7 @@
+T1	Cell 124 136	HEK293 cells
+T2	Cell 447 452	cells
+T3	Organism_substance 788 800	cell lysates
+T4	Organism_substance 1005 1016	supernatant
+A1	Processed T4
+A2	Processed T3
+T5	Cellular_component 93 101	plasmids

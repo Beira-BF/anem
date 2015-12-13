@@ -1,0 +1,11 @@
+T1	Tissue 79 95	tissue specimens
+A1	Processed T1
+T2	Pathological_formation 133 139	tumour
+T3	Tissue 388 404	tissue fragments
+T4	Tissue 427 436	specimens
+A2	Processed T4
+T5	Tissue 173 191	endometrial biopsy
+A3	Processed T5
+T6	Pathological_formation 121 129	fragment
+R1	Part-of Arg1:T6 Arg2:T2	
+T7	Pathological_formation 291 299	fragment

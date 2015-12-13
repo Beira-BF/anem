@@ -1,0 +1,7 @@
+T1	Cell 5 14	Cell line
+T2	Cell 27 60	DU145 (prostate cancer) cell line
+A1	Pathological T2
+T3	Cell 85 90	DU145
+A2	Pathological T3
+T4	Organism_substance 205 210	serum
+T5	Developing_anatomical_structure 194 199	fetal

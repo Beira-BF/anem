@@ -1,0 +1,46 @@
+T1	Pathological_formation 44 62	gallbladder tumors
+T2	Pathological_formation 90 104	adenocarcinoma
+T3	Organ 112 123	gallbladder
+T4	Organ 125 127	GB
+*	Equiv T3 T4
+R1	Part-of Arg1:T2 Arg2:T3	
+T5	Pathological_formation 135 164	malignant fibrous histocytoma
+T6	Pathological_formation 171 196	metastatic adenocarcinoma
+T7	Pathological_formation 203 210	adenoma
+T8	Pathological_formation 217 224	polypus
+T9	Pathological_formation 231 246	xanthogranuloma
+T10	Pathological_formation 438 447	GB cancer
+T11	Multi-tissue_structure 473 477	wall
+A1	Pathological T11
+T12	Organism_substance 514 528	arterial blood
+T13	Multi-tissue_structure 548 552	wall
+T14	Organ 560 562	GB
+R2	Part-of Arg1:T13 Arg2:T14	
+T15	Pathological_formation 592 609	metastatic cancer
+T16	Organ 617 619	GB
+R3	Part-of Arg1:T15 Arg2:T16	
+T17	Organism_substance 627 632	blood
+T18	Multi-tissue_structure 652 656	wall
+T19	Organ 664 666	GB
+R4	Part-of Arg1:T18 Arg2:T19	
+T20	Pathological_formation 688 702	benign lesions
+T21	Organ 710 712	GB
+R5	Part-of Arg1:T20 Arg2:T21	
+T22	Organism_substance 750 755	blood
+T23	Pathological_formation 803 816	GB malignancy
+T24	Organism_substance 850 864	arterial blood
+T25	Pathological_formation 885 890	tumor
+T26	Organism_substance 902 907	blood
+T27	Pathological_formation 965 990	metastatic adenocarcinoma
+T28	Pathological_formation 997 1004	adenoma
+T29	Pathological_formation 1011 1018	polypus
+T30	Organism_substance 1047 1061	arterial blood
+T31	Organ 1104 1106	GB
+T32	Multi-tissue_structure 1117 1124	GB wall
+T33	Pathological_formation 1161 1170	GB cancer
+T34	Pathological_formation 1211 1220	GB cancer
+T35	Pathological_formation 1226 1236	metastatic
+T36	Pathological_formation 1241 1255	benign lesions
+R6	frag Arg1:T35 Arg2:T36	
+T37	Organ 1263 1265	GB
+R7	Part-of Arg1:T36 Arg2:T37	

@@ -1,0 +1,16 @@
+T1	Multi-tissue_structure 21 34	nigrostriatal
+T2	Pathological_formation 74 81	lesions
+T3	Multi-tissue_structure 220 242	lesioned nigrostriatal
+A1	Pathological T3
+T4	Pathological_formation 376 396	nigrostriatal lesion
+A2	Pathological T4
+T5	Cell 579 587	neuronal
+T6	Multi-tissue_structure 663 705	unilateral median forebrain bundle lesions
+A3	Pathological T6
+T7	Pathological_formation 785 791	Lesion
+T8	Pathological_formation 1198 1204	Lesion
+T9	Multi-tissue_structure 1347 1364	lesioned striatum
+A4	Pathological T9
+T10	Multi-tissue_structure 1448 1461	nigrostriatal
+T11	Multi-tissue_structure 509 517	striatal
+T12	Multi-tissue_structure 1166 1174	striatal

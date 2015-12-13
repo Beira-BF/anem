@@ -1,0 +1,14 @@
+T1	Cell 0 11	Sickle cell
+A1	Pathological T1
+T2	Multi-tissue_structure 32 40	arterial
+T3	Organ 89 97	Cerebral
+T4	Organism_substance 98 103	blood
+T5	Multi-tissue_structure 144 152	arterial
+T6	Cell 229 240	sickle cell
+A2	Pathological T6
+T7	Multi-tissue_structure 359 374	cerebral artery
+T8	Multi-tissue_structure 424 438	right anterior
+T9	Multi-tissue_structure 450 465	cerebral artery
+T10	Organism_subdivision 588 604	right hemisphere
+T11	Cell 747 758	sickle cell
+A3	Pathological T11

@@ -1,0 +1,28 @@
+T1	Multi-tissue_structure 10 16	atrial
+T2	Immaterial_anatomical_entity 53 58	sinus
+T3	Multi-tissue_structure 98 104	atrial
+T4	Tissue 136 142	tissue
+T5	Multi-tissue_structure 202 208	atrial
+T6	Multi-tissue_structure 235 241	atrial
+T7	Multi-tissue_structure 278 284	atrial
+T8	Multi-tissue_structure 367 373	atrial
+T9	Tissue 320 326	tissue
+T10	Multi-tissue_structure 508 514	atrial
+T11	Multi-tissue_structure 791 797	atrial
+T12	Multi-tissue_structure 867 874	lateral
+T13	Multi-tissue_structure 879 891	septal walls
+R1	frag Arg1:T12 Arg2:T13	
+T14	Multi-tissue_structure 899 910	left atrium
+T15	Multi-tissue_structure 915 927	right atrium
+R2	Part-of Arg1:T13 Arg2:T14	
+R3	Part-of Arg1:T13 Arg2:T15	
+R4	Part-of Arg1:T12 Arg2:T14	
+R5	Part-of Arg1:T12 Arg2:T15	
+T16	Multi-tissue_structure 1097 1108	left atrial
+T17	Multi-tissue_structure 1282 1294	right atrial
+T18	Multi-tissue_structure 1405 1416	left atrial
+T19	Multi-tissue_structure 1491 1503	right atrial
+T20	Multi-tissue_structure 1578 1589	left atrial
+T21	Multi-tissue_structure 1687 1693	atrial
+T22	Immaterial_anatomical_entity 442 447	sinus
+T23	Multi-tissue_structure 1027 1038	left atrium

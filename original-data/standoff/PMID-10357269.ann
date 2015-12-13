@@ -1,0 +1,8 @@
+T1	Organism_substance 377 383	faecal
+T2	Organism_subdivision 544 549	meats
+A1	Processed T2
+T3	Organ 886 895	intestine
+T4	Multi-tissue_structure 1079 1092	urinary tract
+T5	Cellular_component 1289 1300	conjugative
+T6	Cellular_component 1304 1327	nonconjugative plasmids
+R1	frag Arg1:T5 Arg2:T6	

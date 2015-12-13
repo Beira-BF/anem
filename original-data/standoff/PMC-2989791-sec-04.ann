@@ -1,0 +1,7 @@
+T1	Organism_substance 48 59	supernatant
+A1	Processed T1
+T2	Organism_substance 635 640	serum
+T4	Organism_substance 699 717	supernatant sample
+A2	Processed T4
+T5	Organism_substance 1580 1591	supernatant
+A3	Processed T5

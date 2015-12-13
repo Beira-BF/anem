@@ -1,0 +1,14 @@
+T1	Organism_substance 1740 1744	sera
+T2	Organism_substance 2167 2172	serum
+T3	Organism_substance 2429 2433	sera
+T4	Organism_substance 2883 2887	sera
+T5	Organism_substance 3048 3061	serum samples
+T6	Organism_substance 3354 3359	serum
+T7	Organism_substance 3615 3628	serum samples
+T8	Organism_substance 4291 4304	serum samples
+A1	Processed T5
+A2	Processed T7
+A3	Processed T8
+T9	Organism_substance 3212 3219	samples
+A4	Processed T9
+T14	Organism_substance 623 627	sera

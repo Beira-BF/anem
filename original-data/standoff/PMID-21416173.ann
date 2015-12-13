@@ -1,0 +1,20 @@
+T1	Organism_substance 20 25	serum
+T2	Pathological_formation 77 105	papillary mucinous neoplasms
+T3	Organism_substance 189 194	serum
+T4	Pathological_formation 261 301	intraductal papillary mucinous neoplasms
+T5	Organ 305 313	pancreas
+R1	Part-of Arg1:T4 Arg2:T5	
+T6	Pathological_formation 315 320	IPMNs
+*	Equiv T4 T6
+T7	Pathological_formation 383 388	IPMNs
+T8	Pathological_formation 521 526	tumor
+T9	Pathological_formation 876 881	IPMNs
+T10	Pathological_formation 947 952	IPMNs
+T11	Organism_substance 1139 1144	serum
+T12	Pathological_formation 1211 1216	IPMNs
+T18	Pathological_formation 722 727	IPMNs
+T13	Organism_substance 1584 1589	Serum
+T14	Pathological_formation 1656 1661	IPMNs
+T15	Pathological_formation 1734 1739	IPMNs
+T16	Organism_substance 1763 1768	serum
+T17	Pathological_formation 1840 1845	IPMNs

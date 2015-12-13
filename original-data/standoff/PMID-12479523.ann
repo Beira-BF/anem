@@ -1,0 +1,18 @@
+T1	Multi-tissue_structure 9 17	tracheal
+T2	Multi-tissue_structure 22 32	esophageal
+T3	Multi-tissue_structure 60 77	tracheoesophageal
+T4	Pathological_formation 92 112	mediastinal lymphoma
+T5	Pathological_formation 114 134	Mediastinal lymphoma
+T6	Multi-tissue_structure 149 165	tracheobronchial
+T7	Immaterial_anatomical_entity 207 232	tracheoesophageal fistula
+T8	Pathological_formation 251 271	mediastinal lymphoma
+A1	Pathological T7
+T9	Immaterial_anatomical_entity 291 317	tracheoesophageal fistulas
+A2	Pathological T9
+T10	Pathological_formation 401 425	mediastinal lymphomatous
+T11	Multi-tissue_structure 452 460	tracheal
+T12	Multi-tissue_structure 474 484	esophageal
+T13	Immaterial_anatomical_entity 502 527	tracheoesophageal fistula
+A3	Pathological T13
+T14	Multi-tissue_structure 575 581	airway
+T15	Multi-tissue_structure 586 596	esophageal

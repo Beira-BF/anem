@@ -1,0 +1,8 @@
+T1	Organism_substance 63 69	plasma
+T2	Pathological_formation 75 81	cancer
+T3	Organism_substance 92 98	Plasma
+T4	Pathological_formation 407 420	breast cancer
+T5	Pathological_formation 458 466	melanoma
+T6	Organism_substance 755 761	plasma
+T7	Organism_substance 1066 1073	urinary
+T8	Pathological_formation 1112 1118	cancer

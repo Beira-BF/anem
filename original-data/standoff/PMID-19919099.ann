@@ -1,0 +1,6 @@
+T2	Organism_substance 741 746	juice
+A1	Processed T2
+T3	Organism_substance 698 709	concentrate
+A2	Processed T3
+A3	Plant T3
+A4	Plant T2

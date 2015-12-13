@@ -1,0 +1,6 @@
+T1	Cellular_component 162 184	mitochondrial membrane
+T2	Organism_substance 337 342	serum
+T3	Cell 350 378	fibroblast-like synoviocytes
+T4	Cell 344 347	FLS
+*	Equiv T4 T3
+T6	Developing_anatomical_structure 326 331	fetal

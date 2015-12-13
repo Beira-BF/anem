@@ -1,0 +1,36 @@
+T1	Pathological_formation 41 48	primary
+T2	Pathological_formation 53 74	metastatic carcinomas
+R1	frag Arg1:T1 Arg2:T2	
+T3	Organ 82 87	liver
+R2	Part-of Arg1:T2 Arg2:T3	
+T4	Pathological_formation 104 136	primary hepatocellular carcinoma
+T5	Pathological_formation 138 141	HCC
+*	Equiv T4 T5
+T6	Pathological_formation 148 169	metastatic carcinomas
+T7	Organ 177 182	liver
+R3	Part-of Arg1:T6 Arg2:T7	
+T8	Multi-tissue_structure 238 251	needle biopsy
+A1	Pathological T8
+A2	Processed T8
+T9	Multi-tissue_structure 256 288	fine-needle aspiration specimens
+A3	Pathological T9
+A4	Processed T9
+R4	frag Arg1:T8 Arg2:T9	
+T10	Pathological_formation 378 381	HCC
+T11	Pathological_formation 387 408	metastatic carcinomas
+T12	Pathological_formation 432 451	cholangiocarcinomas
+T13	Pathological_formation 460 486	metastatic adenocarcinomas
+T15	Pathological_formation 615 620	tumor
+T16	Tissue 656 666	epithelial
+T17	Cellular_component 676 684	membrane
+T19	Pathological_formation 827 853	Metastatic adenocarcinomas
+T20	Pathological_formation 1015 1018	HCC
+T21	Pathological_formation 1179 1182	HCC
+T22	Pathological_formation 1187 1213	metastatic adenocarcinomas
+T23	Pathological_formation 1220 1224	HCCs
+T24	Multi-tissue_structure 1242 1258	bile canalicular
+T25	Pathological_formation 1331 1352	metastatic carcinomas
+T26	Pathological_formation 1479 1482	HCC
+T27	Pathological_formation 1488 1509	metastatic carcinomas
+T28	Pathological_formation 1516 1534	cholangiocarcinoma
+T29	Pathological_formation 1580 1601	metastatic carcinomas

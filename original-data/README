@@ -1,0 +1,124 @@
+This package contains the data of the AnEM (Anatomical Entity Mention)
+corpus, version 1.0.3.
+
+This README provides a brief overview of the package contents. See the
+LICENSE file included in the package for the data license, the
+manuscript referenced at the bottom of this file for an introduction
+of the corpus, and the project homepage
+
+    http://www.nactem.ac.uk/anatomy/ 
+
+for data visualizations, supplementary data and more information.
+
+
+CONTENTS
+
+This package contains the following:
+
+* README:       this file
+* LICENSE:      licenses of the texts and annotations
+* REFERENCES:   references to articles from which extracts are used
+* development:  development split of entity annotations in BIO format
+* test:         test split of entity annotations in BIO format
+* standoff:     all annotations in standoff format
+* scripts: 	scripts for working with the corpus data
+
+
+FORMAT
+
+The corpus data is provided in two formats: a BIO format and a
+standoff format.
+
+BIO format
+
+The data in the development/ and test/ directories are provided in the
+column-formatted BIO representation used in many reference resources
+for mention detection such as that of the CoNLL shared tasks (see
+e.g. http://www.cnts.ua.ac.be/conll2002/ner/). Each line contains four
+TAB-separated columns: token text, start offset, end offset, and tag.
+An example:
+
+white   579     584     B-Multi-tissue_structure
+matter  585     591     I-Multi-tissue_structure
+of      592     594     O
+rat     595     598     O
+spinal  599     605     B-Organ
+cord    606     610     I-Organ
+
+Each tag consist of one of the letters B, I or O (for "begin", "in",
+and "out"), and the type of the entity for the B and I tags. (The
+offsets into the source text are provided for reference and can be
+ignored for most applications.)
+
+The entity mention detection task is to learn to predict the tags
+(last column) given the token texts (first column).
+
+Standoff format
+
+The data in the standoff/ directory are provided in the standoff
+format used by the brat annotation tool (http://brat.nlplab.org/). For
+details of the format, see the documentation page
+http://brat.nlplab.org/standoff.html
+
+
+EVALUATION
+
+The corpus is intended to serve as an evaluation standard for
+anatomical entity mention detection. For this purpose, the
+development/ and test/ directories contain the following files:
+
+* AnEM.train
+* AnEM.test
+
+The .train files contain data to be used for training during method
+development and final evaluation, and the corresponding .test files
+contain the data to be used for testing.
+
+The proposed approach to method development and evaluation is to use
+the test/ data only for final evaluation after completing method
+development. In particular, it is not an acceptable to use the
+test/AnEM.test file contents to tune method parameters (or, of course,
+to train methods).
+
+The development/ and test/ directories additionally contain the files
+train-files.list and test-files.list, which list the names of the
+source files that have been combined to create the corresponding
+training and test data files.
+
+PLEASE NOTE: the data in the development/ and test/ directories are
+not separate: the development/ data is a split of the data in the
+test/AnEM.train file.
+
+The evaluation script evalbio.pl in scripts/ can be used to evaluate
+predictions against the gold test data as follows:
+
+    evalbio.pl PREDICTIONS GOLD
+
+for example
+
+    evalbio.pl AnEM.predictions development/AnEM.test
+
+The predictions should have the same BIO format as the provided data.
+
+
+CONTACT
+
+For any queries relating to the corpus, please contact Sampo Pyysalo
+<sampo.pyysalo@gmail.com>
+
+
+CHANGELOG
+
+* 1.0.3 (14.05.2012): first public release 
+* 1.0.4 (15.05.2012): extended licensing info for PMC OA full-text extracts
+
+REFERENCES
+
+The corpus is presented in the following manuscript.
+
+* Tomoko Ohta, Sampo Pyysalo, Jun'ichi Tsujii and Sophia Ananiadou (2012).
+  Open-domain Anatomical Entity Mention Detection.
+  In Proceedings of ACL 2012 Workshop on Detecting Structure in 
+  Scholarly Discourse (DSSD).
+
+The corpus home page is located at http://www.nactem.ac.uk/anatomy/ 

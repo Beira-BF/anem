@@ -1,0 +1,43 @@
+T1	Tissue 27 36	embryonic
+A1	Developing T1
+T2	Tissue 41 63	extraembryonic tissues
+A2	Developing T2
+R1	frag Arg1:T1 Arg2:T2	
+T3	Developing_anatomical_structure 1127 1133	embryo
+T4	Tissue 1330 1336	tissue
+A3	Developing T4
+T6	Tissue 1421 1442	extraembryonic tissue
+T7	Cell 1482 1509	endothelial precursor cells
+T8	Organism_substance 1396 1409	blood islands
+T5	Organism_substance 1513 1526	blood islands
+T9	Tissue 1777 1799	extraembryonic tissues
+A4	Developing T9
+A5	Developing T6
+T10	Organism_substance 1801 1814	Blood islands
+T11	Tissue 1833 1852	yolk sac mesodermal
+A6	Developing T11
+T12	Tissue 1875 1894	visceral endodermal
+A7	Developing T12
+T13	Tissue 1899 1916	ectodermal layers
+A8	Developing T13
+R2	frag Arg1:T12 Arg2:T13	
+T14	Cell 1935 1950	red blood cells
+T15	Cell 1977 1982	cells
+T16	Organism_substance 1986 1999	blood islands
+T17	Cell 2011 2025	hemangioblasts
+T18	Cell 2065 2082	endothelial cells
+T19	Developing_anatomical_structure 2086 2123	extraembryonic blood vessel structure
+T20	Developing_anatomical_structure 2136 2142	embryo
+T21	Cell 2160 2177	endothelial cells
+T22	Organism_substance 2201 2214	blood islands
+T23	Cell 2262 2275	Erythroblasts
+T24	Organism_substance 2293 2306	blood islands
+T25	Cell 2318 2323	cells
+A9	Developing T8
+A10	Developing T5
+A11	Developing T10
+A12	Developing T22
+A13	Developing T24
+T26	Multi-tissue_structure 2185 2192	ventral
+R3	Part-of Arg1:T21 Arg2:T26	
+T27	Multi-tissue_structure 1462 1469	Ventral

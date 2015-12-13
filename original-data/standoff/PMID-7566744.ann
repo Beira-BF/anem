@@ -1,0 +1,6 @@
+T1	Organ 254 261	ovarian
+T2	Tissue 621 639	fetal brain tissue
+A1	Developing T2
+T3	Multi-tissue_structure 28 51	mediobasal hypothalamic
+T4	Multi-tissue_structure 488 511	mediobasal hypothalamus
+T5	Multi-tissue_structure 895 909	nerve terminal

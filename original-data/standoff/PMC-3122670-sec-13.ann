@@ -1,0 +1,10 @@
+T1	Organ 499 503	lung
+T2	Organ 540 545	organ
+T3	Organ 558 562	lung
+T4	Organ 563 569	kidney
+T5	Organ 619 624	organ
+T6	Cell 641 675	allogeneic hematopoietic stem cell
+T7	Pathological_formation 773 785	solid tumors
+T8	Organism_substance 1386 1392	Sputum
+T9	Organ 1450 1454	Lung
+T10	Pathological_formation 1524 1536	solid tumors

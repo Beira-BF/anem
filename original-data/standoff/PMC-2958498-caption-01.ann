@@ -1,0 +1,9 @@
+T1	Organ 10 13	eye
+T2	Multi-tissue_structure 119 126	retinal
+T3	Multi-tissue_structure 229 236	retinal
+T4	Multi-tissue_structure 289 301	inner retina
+T5	Tissue 503 510	macular
+T6	Multi-tissue_structure 590 597	retinal
+T7	Pathological_formation 612 625	cystoid edema
+T8	Tissue 678 684	macula
+T9	Tissue 760 774	retinal artery

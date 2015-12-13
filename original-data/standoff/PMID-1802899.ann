@@ -1,0 +1,8 @@
+T1	Pathological_formation 0 8	Melanoma
+T2	Pathological_formation 9 20	skin cancer
+T3	Pathological_formation 111 119	melanoma
+T4	Organ 120 124	skin
+T5	Pathological_formation 330 338	melanoma
+T6	Pathological_formation 342 365	nonmelanoma skin cancer
+T7	Pathological_formation 427 435	melanoma
+T8	Pathological_formation 436 447	skin cancer

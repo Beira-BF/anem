@@ -1,0 +1,7 @@
+T1	Anatomical_system 314 325	respiratory
+T2	Organism_substance 394 418	nasopharyngeal aspirates
+T3	Anatomical_system 1130 1141	respiratory
+A1	Processed T2
+T4	Organism_substance 381 388	samples
+A2	Processed T4
+R1	Part-of Arg1:T4 Arg2:T2	

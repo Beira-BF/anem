@@ -1,0 +1,15 @@
+T2	Pathological_formation 56 90	stage II and III colorectal cancer
+T4	Pathological_formation 343 360	colorectal cancer
+T1	Pathological_formation 496 530	stage II and III colorectal cancer
+T5	Tissue 553 559	Tissue
+T6	Tissue 602 608	normal
+T7	Tissue 613 625	tumor tissue
+R1	frag Arg1:T6 Arg2:T7	
+T8	Pathological_formation 876 893	Colorectal tumors
+T9	Tissue 1069 1082	normal tissue
+T10	Pathological_formation 1139 1144	tumor
+T11	Pathological_formation 1277 1282	tumor
+T12	Pathological_formation 1842 1876	stage II and III colorectal cancer
+T14	Tissue 469 476	tissues
+T15	Cell 290 294	cell
+T16	Pathological_formation 1538 1543	tumor

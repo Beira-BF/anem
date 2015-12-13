@@ -1,0 +1,19 @@
+T1	Pathological_formation 32 48	rectal carcinoma
+T2	Pathological_formation 68 84	rectal carcinoma
+T3	Pathological_formation 126 143	surgical specimen
+A1	Processed T3
+T4	Pathological_formation 226 231	tumor
+T5	Cell 366 389	peritumoral lymphocytic
+T6	Pathological_formation 408 413	tumor
+T7	Multi-tissue_structure 450 461	lymph nodes
+T8	Pathological_formation 588 596	specimen
+A2	Processed T8
+T9	Tissue 649 655	tissue
+T10	Pathological_formation 678 699	lymph node metastases
+T11	Multi-tissue_structure 724 735	lymph nodes
+T12	Pathological_formation 871 894	distal mesorectal tumor
+T13	Tissue 429 445	surgical margins
+A3	Processed T13
+T14	Tissue 481 519	circumferential (deep, lateral) margin
+A4	Processed T14
+T15	Multi-tissue_structure 798 815	distal mesorectum

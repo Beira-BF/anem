@@ -1,0 +1,18 @@
+T1	Tissue 113 120	tissues
+A1	Plant T1
+T2	Tissue 292 298	tissue
+A2	Plant T2
+T3	Tissue 307 316	tree ring
+A3	Plant T3
+T4	Organ 367 371	leaf
+A4	Plant T4
+T5	Organ 571 575	leaf
+A5	Plant T5
+T6	Tissue 612 623	stem tissue
+A6	Plant T6
+T7	Organism_subdivision 786 792	crowns
+T8	Tissue 892 904	woody tissue
+A7	Plant T8
+T9	Tissue 1283 1292	tree ring
+A8	Plant T9
+A9	Plant T7

@@ -1,0 +1,14 @@
+T1	Organism_substance 25 39	amniotic fluid
+A1	Developing T1
+T2	Organism_substance 274 288	amniotic fluid
+A2	Developing T2
+T3	Organ 293 303	fetal lung
+A3	Developing T3
+T4	Organ 154 164	fetal lung
+A4	Developing T4
+T5	Organism_substance 492 506	amniotic fluid
+A5	Developing T5
+T6	Organism_substance 1037 1045	specimen
+A6	Processed T6
+A7	Developing T6
+T7	Anatomical_system 858 869	respiratory

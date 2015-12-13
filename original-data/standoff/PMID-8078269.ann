@@ -1,0 +1,15 @@
+T1	Pathological_formation 46 60	retinoblastoma
+T2	Pathological_formation 233 247	Retinoblastoma
+T3	Pathological_formation 331 345	retinoblastoma
+T4	Pathological_formation 721 735	retinoblastoma
+T5	Organ 738 741	eye
+T6	Organ 749 753	eyes
+T7	Organ 784 788	eyes
+T8	Organ 896 901	brain
+T9	Pathological_formation 933 947	retinoblastoma
+T10	Organ 645 649	eyes
+T11	Organ 686 690	eyes
+T12	Organ 416 420	eyes
+T13	Pathological_formation 433 440	tumours
+T14	Pathological_formation 808 815	lesions
+T15	Pathological_formation 878 888	metastases

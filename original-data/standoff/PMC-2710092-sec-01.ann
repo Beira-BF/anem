@@ -1,0 +1,9 @@
+T1	Pathological_formation 152 182	muscle-invasive bladder cancer
+T2	Pathological_formation 406 411	tumor
+T3	Organ 604 611	bladder
+T4	Pathological_formation 645 651	tumors
+T5	Pathological_formation 810 815	tumor
+T6	Pathological_formation 976 982	cancer
+T7	Organ 990 997	bladder
+T8	Pathological_formation 1077 1083	tumors
+T9	Organ 1145 1152	bladder

@@ -1,0 +1,3 @@
+T1	Cell 56 67	neurosphere
+T2	Cell 72 92	differentiated cells
+R1	frag Arg1:T1 Arg2:T2	

@@ -1,0 +1,19 @@
+T1	Organism_substance 203 208	blood
+T2	Organism_substance 417 422	blood
+T3	Organism_substance 461 467	sputum
+T4	Organism_substance 469 474	urine
+T5	Organism_substance 476 479	pus
+T6	Organism_substance 493 498	fluid
+T7	Organism_substance 725 730	blood
+T8	Organism_substance 919 924	blood
+T10	Pathological_formation 1887 1905	malignant lymphoma
+T11	Pathological_formation 1907 1909	ML
+*	Equiv T10 T11
+T12	Organism_substance 2037 2042	blood
+T13	Organism_substance 2114 2125	whole blood
+T14	Organism_substance 2230 2235	blood
+T15	Organism_substance 2791 2796	blood
+T16	Organism_substance 3028 3033	blood
+T17	Organism_substance 3127 3132	blood
+T18	Organism_substance 3379 3385	sample
+A1	Processed T18
